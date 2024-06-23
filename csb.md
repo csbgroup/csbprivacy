@@ -4,7 +4,7 @@ Last updated March 01, 2023
 This privacy notice for Christian Songs Book ("Company," "we," "us," or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
 Download and use our mobile application (Christian Songs Book), or any other application of ours that links to this privacy notice
 Engage with us in other related ways, including any sales, marketing, or events
-Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at shopiyandhas@gmail.com.
+Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at infoatcsb@gmail.com.
 SUMMARY OF KEY POINTS
 This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents below to find the section you are looking for. You can also click here to go directly to our table of contents.
 What personal information do we process? When you visit, use, or navigate our Services, we may process personal information depending on how you interact with Christian Songs Book and the Services, the choices you make, and the products and features you use. Click here to learn more.
@@ -21,7 +21,7 @@ My Great New Website / App
 This privacy notice for Christian Songs Book ("Company," "we," "us," or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
 Download and use our mobile application (Christian Songs Book), or any other application of ours that links to this privacy notice
 Engage with us in other related ways, including any sales, marketing, or events
-Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at shopiyandhas@gmail.com.
+Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at infoatcsb@gmail.com.
 SUMMARY OF KEY POINTS
 This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents below to find the section you are looking for. You can also click here to go directly to our table of contents.
 What personal information do we process? When you visit, use, or navigate our Services, we may process personal information depending on how you interact with Christian Songs Book and the Services, the choices you make, and the products and features you use. Click here to learn more.
@@ -120,7 +120,7 @@ Log in to your account settings and update your user account.
 Upon your request to terminate your account, we will deactivate or delete your
   
   account and information from our active databases. However, we may retain some information in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our legal terms and/or comply with applicable legal requirements.
-If you have questions or comments about your privacy rights, you may email us at shopiyandhas@gmail.com.
+If you have questions or comments about your privacy rights, you may email us at infoatcsb@gmail.com.
 9. CONTROLS FOR DO-NOT-TRACK FEATURES
 Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice.
 10. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
@@ -175,7 +175,7 @@ Participation in customer surveys or contests; and
 Facilitation in the delivery of our Services and to respond to your inquiries.
 How do we use and share your personal information?
 More information about our data collection and sharing practices can be found in this privacy notice.
-You may contact us by email at shopiyandhas@gmail.com, or by referring to the contact details at the bottom of this document.
+You may contact us by email at infoatcsb@gmail.com, or by referring to the contact details at the bottom of this document.
 If you are using an authorized agent to exercise your right to opt out we may deny a request if the authorized agent does not submit proof that they have been validly authorized to act on your behalf.
 Will your information be shared with anyone else?
 We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Each service provider is a for- profit entity that processes the information on our behalf, following the same strict privacy protection obligations mandated by the CCPA.
@@ -207,7 +207,7 @@ We will only use personal information provided in your request to verify your id
 You may request correction of your personal data if it is incorrect or no longer relevant, or ask to restrict the processing of the information.
 You can designate an authorized agent to make a request under the CCPA on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with the CCPA.
 You may request to opt out from future selling or sharing of your personal information to third parties. Upon receiving an opt-out request, we will act upon the request as soon as feasibly possible, but no later than fifteen (15) days from the date of the request submission.
-To exercise these rights, you can contact us by email at shopiyandhas@gmail.com, or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
+To exercise these rights, you can contact us by email at infoatcsb@gmail.com, or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
 11. DO VIRGINIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 In Short: Yes, if you are a resident of Virginia, you may be granted specific rights regarding access to and use of your personal information.
 Virginia CDPA Privacy Notice
@@ -233,18 +233,18 @@ More information about our data collection and sharing practices can be found in
  
  
 privacy notice.
-You may contact us by email at shopiyandhas@gmail.com, by visiting in the app located in account tab, or by referring to the contact details at the bottom of this document.
+You may contact us by email at infoatcsb@gmail.com, by visiting in the app located in account tab, or by referring to the contact details at the bottom of this document.
 If you are using an authorized agent to exercise your rights, we may deny a request if the authorized agent does not submit proof that they have been validly authorized to act on your behalf.
 Verification process
 We may request that you provide additional information reasonably necessary to verify you and your consumer's request. If you submit the request through an authorized agent, we may need to collect additional information to verify your identity before processing your request.
 Upon receiving your request, we will respond without undue delay, but in all cases, within forty-five (45) days of receipt. The response period may be extended once by forty-five (45) additional days when reasonably necessary. We will inform you of any such extension within the initial 45-day response period, together with the reason for the extension.
 Right to appeal
-If we decline to take action regarding your request, we will inform you of our decision and reasoning behind it. If you wish to appeal our decision, please email us at shopiyandhas@gmail.com. Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal if denied, you may contact the Attorney General to submit a complaint.
+If we decline to take action regarding your request, we will inform you of our decision and reasoning behind it. If you wish to appeal our decision, please email us at infoatcsb@gmail.com. Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal if denied, you may contact the Attorney General to submit a complaint.
 12. DO WE MAKE UPDATES TO THIS NOTICE?
 In Short: Yes, we will update this notice as necessary to stay compliant with relevant laws.
 We may update this privacy notice from time to time. The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
 13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
-If you have questions or comments about this notice, you may email us at shopiyandhas@gmail.com or by post to:
+If you have questions or comments about this notice, you may email us at infoatcsb@gmail.com or by post to:
 Christian Songs Book __________ __________
 India
 14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
